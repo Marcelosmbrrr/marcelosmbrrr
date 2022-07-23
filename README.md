@@ -7,6 +7,7 @@
   <img align = "center" alt = "dev-icon-php" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align = "center" alt = "dev-icon-laravel" height = "50" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align = "center" alt = "dev-icon-nodejs" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" >
+  <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
 
