@@ -10,7 +10,7 @@
   <img align = "center" alt = "dev-icon-nodejs" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" >
   <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 </div>
-<h1 style="font-size: 15px;">Next technologies by order:</h1>
+<h1 style="font-size: 15px;">Next technologies:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-html" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />      
   <img align = "center" alt = "dev-icon-html" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
