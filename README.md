@@ -14,7 +14,8 @@
 <h1 style="font-size: 15px;">Backend frameworks:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-laravel" height = "50" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img align = "center" alt = "dev-icon-nodejs" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" >
+  <img align = "center" alt = "dev-icon-nodejs" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align = "center" alt = "dev-icon-express" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />   
 </div>
 <h1 style="font-size: 15px;">Devops:</h1>
 <div style = "display: flex">
