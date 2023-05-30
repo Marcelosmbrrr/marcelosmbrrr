@@ -20,7 +20,7 @@
 <h1 style="font-size: 15px;">DevOps:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-  <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> 
+  <img align = "center" height = "25" width = "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> 
 </div>   
 <h1 style="font-size: 15px;">Next studies:</h1>
 <div style = "display: flex">
