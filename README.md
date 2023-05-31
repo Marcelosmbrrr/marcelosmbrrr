@@ -1,10 +1,10 @@
 <h1 style="font-size: 15px;">Languages:</h1>
 <div style = "display: flex">
-  <img align = "center" alt = "dev-icon-html" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
-  <img align = "center" alt = "dev-icon-css" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
-  <img align = "center" alt = "dev-icon-js" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
-  <img align = "center" alt = "dev-icon-ts" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
-  <img align = "center" alt = "dev-icon-php" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align = "center" alt = "dev-icon-html" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" > (3)
+  <img align = "center" alt = "dev-icon-css" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> (3)   
+  <img align = "center" alt = "dev-icon-js" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" > (3)
+  <img align = "center" alt = "dev-icon-ts" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" > (3)
+  <img align = "center" alt = "dev-icon-php" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> (3)
 </div>
 <h1 style="font-size: 15px;">Frontend frameworks:</h1>
 <div style = "display: flex">
