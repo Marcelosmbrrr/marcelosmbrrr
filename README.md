@@ -1,6 +1,6 @@
 <h1 style="font-size: 15px;">Languages:</h1>
 <div style = "display: flex">
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: column; justify-content: center;">
     <img align = "center" alt = "dev-icon-html" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
     <p>(3)</p>
   </div>
