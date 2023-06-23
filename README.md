@@ -26,7 +26,6 @@
 </div>   
 <h1 style="font-size: 15px;">Next studies:</h1>
 <div style = "display: flex">                          
-  <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />      
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />             
