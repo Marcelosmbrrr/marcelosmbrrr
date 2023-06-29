@@ -30,6 +30,7 @@
   <img align = "center" height = "50" width = "50" src="https://cdn-icons-png.flaticon.com/512/1104/1104982.png" />
   <img align = "center" height = "50" width = "50" src="https://cdn-icons-png.flaticon.com/512/3137/3137807.png" />
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />             
 </div>
 
