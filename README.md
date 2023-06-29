@@ -26,7 +26,9 @@
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />(1)
 </div>   
 <h1 style="font-size: 15px;">Next studies:</h1>
-<div style = "display: flex">                              
+<div style = "display: flex">      
+  <p style="color:white;">Expo</p>
+  <p style="color:white;">Databases</p>
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />             
 </div>
