@@ -6,7 +6,7 @@
   <img align = "center" alt = "dev-icon-ts" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >(3)
   <img align = "center" alt = "dev-icon-php" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">(3)
 </div>
-<h1 style="font-size: 15px;">Frontend frameworks:</h1>
+<h1 style="font-size: 15px;">Frontend:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-react" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >(3)
   <img align = "center" alt = "dev-icon-html" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />(3)
