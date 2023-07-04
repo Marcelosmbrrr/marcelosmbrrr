@@ -13,18 +13,18 @@
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />(2)
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />(2)
 </div>
-<h1 style="font-size: 15px;">Backend frameworks and databases:</h1>
+<h1 style="font-size: 15px;">Backend:</h1>
 <div style = "display: flex">
-  <img align = "center" height = "50" width = "50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
+  <img align = "center" height = "50" width = "50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" /> (3)
   <img align = "center" alt = "dev-icon-laravel" height = "50" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">(3)
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />(2)
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />(1)
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />(1)
+  <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />(1)
 </div>
 <h1 style="font-size: 15px;">DevOps:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>(1)
-  <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />(1)
 </div>   
 <h1 style="font-size: 15px;">Next studies:</h1>
 <div style = "display: flex">      
