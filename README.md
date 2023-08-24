@@ -9,7 +9,6 @@
 <h1 style="font-size: 15px;">Frontend:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-react" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >(3)
-  <img align = "center" alt = "dev-icon-html" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />(3)
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />(2)
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />(1)
 </div>
