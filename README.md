@@ -10,7 +10,6 @@
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-react" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" >
   <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
 <h1 style="font-size: 15px;">Backend:</h1>
 <div style = "display: flex">
