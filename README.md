@@ -16,7 +16,7 @@
   <img align = "center" alt="dev-icon-sql" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align = "center" alt = "dev-icon-laravel" height = "50" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
   <img align = "center" alt="dev-icon-adonisjs" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align = "center" alt="dev-icon-nestjs" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+  <img align = "center" alt="dev-icon-nestjs" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 </div>
 <h1 style="font-size: 15px;">DevOps:</h1>
 <div style = "display: flex">
