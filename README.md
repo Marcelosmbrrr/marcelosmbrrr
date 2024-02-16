@@ -13,18 +13,18 @@
 </div>
 <h1 style="font-size: 15px;">Backend:</h1>
 <div style = "display: flex">
-  <img align = "center" height = "50" width = "50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
+  <img align = "center" alt="dev-icon-" height = "50" width = "50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
   <img align = "center" alt = "dev-icon-laravel" height = "50" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align = "center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img align = "center" alt="dev-icon-adonisjs" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img align = "center" alt="dev-icon-nestjs" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
 </div>
 <h1 style="font-size: 15px;">DevOps:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
-  <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-  <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg"/>
-  <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
-  <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"/>
+  <img align = "center" alt = "dev-icon-aws" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img align = "center" alt = "dev-icon-digitalocean" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg"/>
+  <img align = "center" alt = "dev-icon-terraform" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
+  <img align = "center" alt = "dev-icon-ansible" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"/>
 </div>   
 
 
