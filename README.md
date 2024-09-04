@@ -4,6 +4,7 @@
   <img align = "center" alt = "dev-icon-js" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <img align = "center" alt = "dev-icon-ts" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
   <img align = "center" alt = "dev-icon-php" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align = "center" alt="dev-icon-java" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 <h1 style="font-size: 15px;">Frontend:</h1>
 <div style = "display: flex">
@@ -14,7 +15,6 @@
 <div style = "display: flex">
   <img align = "center" alt="dev-icon-sql" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align = "center" alt = "dev-icon-laravel" height = "50" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align = "center" alt="dev-icon-java" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align = "center" alt="dev-icon-nodejs" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
 <h1 style="font-size: 15px;">DevOps:</h1>
