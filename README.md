@@ -18,11 +18,12 @@
   <img align = "center" alt = "dev-icon-spring" height = "50" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
   <img align = "center" alt="dev-icon-nodejs" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
-<h1 style="font-size: 15px;">DevOps:</h1>
+<h1 style="font-size: 15px;">Others:</h1>
 <div style = "display: flex">
   <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
   <img align = "center" alt = "dev-icon-aws" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img align = "center" alt = "dev-icon-digitalocean" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg"/>
+  <img align = "center" alt = "dev-icon-firebase" height = "50" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />    
 </div>   
 
 
