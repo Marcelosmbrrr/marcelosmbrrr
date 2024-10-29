@@ -21,6 +21,7 @@
 </div>
 <h1 style="font-size: 15px;">Others:</h1>
 <div style = "display: flex">
+   <img align = "center" alt = "dev-icon-git" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align = "center" alt = "dev-icon-docker" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/>
   <img align = "center" alt = "dev-icon-aws" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img align = "center" alt = "dev-icon-firebase" height = "50" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />    
